@@ -43,7 +43,28 @@
 
 # Scam in
    
-    Termux
+    Termux./phishing.sh --use -facebook-pc
+./phishing.sh --use -Facebook
+
+./phishing.sh --use -instagram
+./phishing.sh --use -google
+
+./phishing.sh --use -netflix
+
+./phishing.sh --use -spotify
+
+./phishing.sh --use -facebook-bloqueo
+./phishing.sh --use -twiter-auto-seguidores
+./phishing.sh --use -Facebook-auto-likes
+./phishing.sh --use -Youtube-auto-suscriptores
+.«/phishing.sh --ver -passwords
+./phishing.sh --viste --channel
+
+CesarHackGray$ |
+
+NEBCTEALB
+
+
     UserLand
     Ubuntu 
     kali Linux
